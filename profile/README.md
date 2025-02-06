@@ -1,16 +1,16 @@
 <div align="center">
-    <img src="StellarVaultLogo.png" alt="Banner">
+    <img src="StellarVaultLogo.png" alt="Banner" height="280" width="184">
 </div>
 
 ## Hello Everyone 👋
 
-We add 2 games for now Niva a platformer hardcore game, who is on stream and Hexatak who is a turn by turn tactical game where you can play with your friends.
+We have 2 games as of now: Niva a platformer hardcore game, which is on Steam and Hexatak which is a turn by turn tactical game where you can play with your friends.
 
-We gonna add more few games in the futur so stay linked 😉!
+We're gonna add more few games in the future so stay linked 😉!
 
-If you have a question or a problem, check the read me of each game with the description and if it's not enough contact us on discord : at limule_rl or imnotstealth.
+<!--If you have a question or a problem, check the read me of each game with the description and if it's not enough contact us on discord : at limule_rl or imnotstealth.-->
 
-thank's to play and be interest in our game.
+Thanks for playing and being interested in our games.
 
 <h2>🚀 Languages That We Can Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
